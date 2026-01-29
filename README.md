@@ -1,5 +1,6 @@
 📉 Predicting Employee Retention: Salifort Motors
-Authors: Chinmay H R, Vishnu vardhan chedella, Tran Dieu Anh
+
+Authors: Chinmay H R, Vishnu Vardhan Chedella, Tran Dieu Anh
 
 Project Type: HR Analytics / Classification Modeling
 
